@@ -1,0 +1,2 @@
+# staradmintemplate
+a website template
